@@ -1,0 +1,1 @@
+# `delete` files and folders recursively with given name
